@@ -19,3 +19,8 @@ Makefile
 /old
 /test
 /ac
+/autom4te.cache/
+/config.h.in~
+/tests/.deps/
+/tests/testpkgs/
+/tests/testrepo/
